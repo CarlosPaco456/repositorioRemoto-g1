@@ -1,0 +1,1 @@
+Aprendí sobre comandos de Git: inicialización de repositorios, creación y gestión de ramas, uso de comandos como git add, commit, push, pull, merge, y stash. Y trabajo colaborativo en proyectos.
