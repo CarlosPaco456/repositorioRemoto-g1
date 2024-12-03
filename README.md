@@ -10,6 +10,10 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@segundo autor](https://www.github.com/octokatherine)
 - [@Rodrigo Chuquimia Gutierrez](https://github.com/RodCodeX)
 
+## Colaboradores
+
+- [@Henrry Villca](https://github.com/Vhenrry) "CURSO GIT"
+
 
 ## variables de entorno
 
