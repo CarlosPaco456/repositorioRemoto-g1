@@ -1,0 +1,1 @@
+Git te permite trabajar de manera más organizada, segura y colaborativa en proyectos de software, facilitando el seguimiento y control de versiones.
