@@ -9,16 +9,12 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@Carlos](https://www.github.com/octokatherine)
 - [@segundo autor](https://www.github.com/octokatherine)
 - [@Rodrigo Chuquimia Gutierrez](https://github.com/RodCodeX)
-<<<<<<< HEAD
 
 ## Colaboradores
 
 - [@Henrry Villca](https://github.com/Vhenrry) "CURSO GIT UPEA"
 
-=======
 - [@ELVISrodrigo](https://github.com/ELVISrodrigo)
->>>>>>> dev-ercv
-
 ## variables de entorno
 
 Se deben configurar las siguientes variables de entorno en su archivo .env
