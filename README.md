@@ -12,7 +12,7 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 
 ## Colaboradores
 
-- [@Henrry Villca](https://github.com/Vhenrry) "CURSO GIT"
+- [@Henrry Villca](https://github.com/Vhenrry) "CURSO GIT UPEA"
 
 
 ## variables de entorno
