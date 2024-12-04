@@ -15,7 +15,7 @@ este es un repositorio de ejemplo para mostrar el trabajo colaborativo y remoto
 - [@Henrry Villca](https://github.com/Vhenrry) "CURSO GIT UPEA"
 - [@Claudia Cuellar Bravo](https://github.com/ClauMaty)
 
-
+- [@ELVISrodrigo](https://github.com/ELVISrodrigo)
 ## variables de entorno
 
 Se deben configurar las siguientes variables de entorno en su archivo .env
